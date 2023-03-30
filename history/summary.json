@@ -40,18 +40,20 @@
     "url": "https://dev.netsblox.org",
     "icon": "https://icons.duckduckgo.com/ip3/dev.netsblox.org.ico",
     "slug": "nets-blox-editor-dev",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 152,
-    "timeWeek": 152,
-    "timeMonth": 152,
-    "timeYear": 152,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
+    "time": 228,
+    "timeDay": 228,
+    "timeWeek": 228,
+    "timeMonth": 228,
+    "timeYear": 228,
+    "dailyMinutesDown": {
+      "2023-03-30": 0
+    }
   },
   {
     "name": "NetsBlox Curriculum",
