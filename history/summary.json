@@ -40,19 +40,19 @@
     "url": "https://dev.netsblox.org",
     "icon": "https://icons.duckduckgo.com/ip3/dev.netsblox.org.ico",
     "slug": "nets-blox-editor-dev",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
-    "time": 228,
-    "timeDay": 228,
-    "timeWeek": 228,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "status": "up",
+    "uptime": "87.98%",
+    "uptimeDay": "87.98%",
+    "uptimeWeek": "87.98%",
+    "uptimeMonth": "87.98%",
+    "uptimeYear": "87.98%",
+    "time": 258,
+    "timeDay": 258,
+    "timeWeek": 258,
+    "timeMonth": 258,
+    "timeYear": 258,
     "dailyMinutesDown": {
-      "2023-03-30": 0
+      "2023-03-30": 3
     }
   },
   {
