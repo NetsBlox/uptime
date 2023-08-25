@@ -22,18 +22,20 @@
     "url": "https://editor.netsblox.org",
     "icon": "https://icons.duckduckgo.com/ip3/editor.netsblox.org.ico",
     "slug": "nets-blox-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 184,
-    "timeWeek": 216,
-    "timeMonth": 233,
-    "timeYear": 248,
-    "dailyMinutesDown": {}
+    "time": 247,
+    "timeDay": 193,
+    "timeWeek": 214,
+    "timeMonth": 232,
+    "timeYear": 247,
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   },
   {
     "name": "NetsBlox Editor (Dev)",
