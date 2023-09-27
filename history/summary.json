@@ -4,36 +4,40 @@
     "url": "https://netsblox.org",
     "icon": "https://icons.duckduckgo.com/ip3/netsblox.org.ico",
     "slug": "nets-blox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 825,
-    "timeDay": 965,
-    "timeWeek": 670,
-    "timeMonth": 744,
-    "timeYear": 825,
-    "dailyMinutesDown": {}
+    "time": 880,
+    "timeDay": 5936,
+    "timeWeek": 1950,
+    "timeMonth": 1043,
+    "timeYear": 880,
+    "dailyMinutesDown": {
+      "2023-09-27": 0
+    }
   },
   {
     "name": "NetsBlox Editor",
     "url": "https://editor.netsblox.org",
     "icon": "https://icons.duckduckgo.com/ip3/editor.netsblox.org.ico",
     "slug": "nets-blox-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 461,
-    "timeWeek": 184,
-    "timeMonth": 255,
+    "timeDay": 343,
+    "timeWeek": 189,
+    "timeMonth": 254,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-27": 0
+    }
   },
   {
     "name": "NetsBlox Editor (Dev)",
