@@ -13,6 +13,8 @@ sites:
     url: https://curriculum.netsblox.org
   - name: NetsBlox Login Portal
     url: https://login.netsblox.org
+  - name: NetsBlox Documentation
+    url: https://editor.netsblox.org/docs
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
