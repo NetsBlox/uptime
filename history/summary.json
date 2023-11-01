@@ -99,19 +99,19 @@
     "url": "https://editor.netsblox.org/docs",
     "icon": "https://icons.duckduckgo.com/ip3/editor.netsblox.org.ico",
     "slug": "nets-blox-documentation",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 38,
-    "timeDay": 38,
-    "timeWeek": 38,
-    "timeMonth": 38,
-    "timeYear": 38,
+    "status": "up",
+    "uptime": "36.98%",
+    "uptimeDay": "36.98%",
+    "uptimeWeek": "36.98%",
+    "uptimeMonth": "36.98%",
+    "uptimeYear": "36.98%",
+    "time": 35,
+    "timeDay": 35,
+    "timeWeek": 35,
+    "timeMonth": 35,
+    "timeYear": 35,
     "dailyMinutesDown": {
-      "2023-11-01": 0
+      "2023-11-01": 591
     }
   }
 ]
