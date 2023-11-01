@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
-    "time": 836,
-    "timeDay": 293,
-    "timeWeek": 343,
-    "timeMonth": 575,
-    "timeYear": 836,
+    "time": 835,
+    "timeDay": 523,
+    "timeWeek": 372,
+    "timeMonth": 576,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2023-10-11": 60,
       "2023-09-27": 17
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 255,
-    "timeDay": 262,
-    "timeWeek": 255,
-    "timeMonth": 281,
+    "timeDay": 264,
+    "timeWeek": 246,
+    "timeMonth": 282,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2023-09-27": 17
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 269,
-    "timeWeek": 280,
-    "timeMonth": 264,
-    "timeYear": 250,
+    "time": 249,
+    "timeDay": 244,
+    "timeWeek": 278,
+    "timeMonth": 265,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 362,
-    "timeWeek": 455,
-    "timeMonth": 480,
-    "timeYear": 480,
+    "time": 479,
+    "timeDay": 357,
+    "timeWeek": 410,
+    "timeMonth": 481,
+    "timeYear": 479,
     "dailyMinutesDown": {}
   },
   {
@@ -88,8 +88,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 35,
-    "timeWeek": 48,
+    "timeDay": 34,
+    "timeWeek": 45,
     "timeMonth": 50,
     "timeYear": 47,
     "dailyMinutesDown": {}
@@ -100,18 +100,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/editor.netsblox.org.ico",
     "slug": "nets-blox-documentation",
     "status": "up",
-    "uptime": "5.10%",
-    "uptimeDay": "5.10%",
-    "uptimeWeek": "5.10%",
-    "uptimeMonth": "5.10%",
-    "uptimeYear": "5.10%",
-    "time": 34,
-    "timeDay": 34,
-    "timeWeek": 34,
-    "timeMonth": 34,
-    "timeYear": 34,
-    "dailyMinutesDown": {
-      "2023-10-31": 2
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 30,
+    "timeDay": 30,
+    "timeWeek": 30,
+    "timeMonth": 30,
+    "timeYear": 30,
+    "dailyMinutesDown": {}
   }
 ]
