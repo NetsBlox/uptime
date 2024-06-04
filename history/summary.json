@@ -11,10 +11,10 @@
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.93%",
     "time": 623,
-    "timeDay": 293,
-    "timeWeek": 381,
-    "timeMonth": 447,
-    "timeYear": 584,
+    "timeDay": 358,
+    "timeWeek": 393,
+    "timeMonth": 449,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2024-06-04": 69,
       "2024-05-10": 206,
@@ -33,10 +33,10 @@
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 300,
-    "timeDay": 10676,
-    "timeWeek": 2870,
-    "timeMonth": 918,
+    "time": 299,
+    "timeDay": 7172,
+    "timeWeek": 2570,
+    "timeMonth": 895,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2024-06-04": 96,
@@ -54,10 +54,10 @@
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 251,
-    "timeDay": 257,
-    "timeWeek": 242,
-    "timeMonth": 256,
+    "time": 250,
+    "timeDay": 195,
+    "timeWeek": 222,
+    "timeMonth": 250,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2024-06-04": 59
@@ -74,11 +74,11 @@
     "uptimeWeek": "99.06%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 469,
-    "timeDay": 599,
-    "timeWeek": 532,
-    "timeMonth": 495,
-    "timeYear": 466,
+    "time": 468,
+    "timeDay": 479,
+    "timeWeek": 500,
+    "timeMonth": 488,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2024-06-04": 95
     }
@@ -95,8 +95,8 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 45,
-    "timeDay": 49,
-    "timeWeek": 40,
+    "timeDay": 38,
+    "timeWeek": 38,
     "timeMonth": 43,
     "timeYear": 45,
     "dailyMinutesDown": {
@@ -115,9 +115,9 @@
     "uptimeMonth": "98.87%",
     "uptimeYear": "99.62%",
     "time": 106,
-    "timeDay": 110,
-    "timeWeek": 101,
-    "timeMonth": 109,
+    "timeDay": 99,
+    "timeWeek": 96,
+    "timeMonth": 107,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-06-04": 123,
@@ -132,5 +132,23 @@
       "2023-11-13": 7,
       "2023-11-01": 591
     }
+  },
+  {
+    "name": "RoboScape Online API (beta)",
+    "url": "https://roboscapeonlineapi2.netsblox.org/server/status",
+    "icon": "https://icons.duckduckgo.com/ip3/roboscapeonlineapi2.netsblox.org.ico",
+    "slug": "robo-scape-online-api-beta",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 225,
+    "timeDay": 225,
+    "timeWeek": 225,
+    "timeMonth": 225,
+    "timeYear": 225,
+    "dailyMinutesDown": {}
   }
 ]
