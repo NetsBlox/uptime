@@ -11,10 +11,10 @@
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.93%",
     "time": 621,
-    "timeDay": 174,
-    "timeWeek": 348,
-    "timeMonth": 437,
-    "timeYear": 582,
+    "timeDay": 494,
+    "timeWeek": 353,
+    "timeMonth": 442,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2024-06-04": 69,
       "2024-05-10": 206,
@@ -34,9 +34,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 299,
-    "timeDay": 162,
-    "timeWeek": 2546,
-    "timeMonth": 891,
+    "timeDay": 282,
+    "timeWeek": 2554,
+    "timeMonth": 890,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2024-06-04": 96,
@@ -55,10 +55,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 250,
-    "timeDay": 219,
-    "timeWeek": 197,
+    "timeDay": 297,
+    "timeWeek": 213,
     "timeMonth": 246,
-    "timeYear": 251,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2024-06-04": 59
     }
@@ -75,10 +75,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 468,
-    "timeDay": 416,
-    "timeWeek": 443,
-    "timeMonth": 477,
-    "timeYear": 466,
+    "timeDay": 596,
+    "timeWeek": 463,
+    "timeMonth": 486,
+    "timeYear": 467,
     "dailyMinutesDown": {
       "2024-06-04": 95
     }
@@ -95,9 +95,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 45,
-    "timeDay": 18,
-    "timeWeek": 31,
-    "timeMonth": 41,
+    "timeDay": 69,
+    "timeWeek": 37,
+    "timeMonth": 42,
     "timeYear": 45,
     "dailyMinutesDown": {
       "2024-06-04": 93
@@ -110,14 +110,14 @@
     "slug": "nets-blox-documentation",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "98.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "98.96%",
     "uptimeYear": "99.62%",
     "time": 106,
-    "timeDay": 125,
-    "timeWeek": 91,
-    "timeMonth": 104,
+    "timeDay": 232,
+    "timeWeek": 110,
+    "timeMonth": 111,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-06-05": 22,
@@ -145,11 +145,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 225,
-    "timeWeek": 205,
-    "timeMonth": 205,
-    "timeYear": 205,
+    "time": 264,
+    "timeDay": 442,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   }
 ]
