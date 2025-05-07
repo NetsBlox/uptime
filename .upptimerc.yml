@@ -7,15 +7,13 @@ sites:
     url: https://netsblox.org
   - name: NetsBlox Editor
     url: https://editor.netsblox.org
-  - name: NetsBlox Editor (Dev)
-    url: https://dev.netsblox.org
   - name: NetsBlox Curriculum
     url: https://curriculum.netsblox.org
   - name: NetsBlox Login Portal
     url: https://login.netsblox.org
   - name: NetsBlox Documentation
     url: https://editor.netsblox.org/docs
-  - name: RoboScape Online API (beta)
+  - name: RoboScape Online API
     url: https://roboscapeonlineapi2.netsblox.org/server/status
 
 status-website:
