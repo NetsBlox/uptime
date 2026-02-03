@@ -10,17 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 401,
-    "timeDay": 218,
-    "timeWeek": 220,
-    "timeMonth": 279,
+    "time": 400,
+    "timeDay": 109,
+    "timeWeek": 228,
+    "timeMonth": 274,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2025-10-24": 805,
       "2025-07-28": 70,
       "2025-03-30": 1018,
-      "2025-02-09": 195,
-      "2025-02-03": 65
+      "2025-02-09": 195
     }
   },
   {
@@ -34,15 +33,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 272,
-    "timeDay": 61,
-    "timeWeek": 188,
-    "timeMonth": 243,
+    "time": 271,
+    "timeDay": 215,
+    "timeWeek": 186,
+    "timeMonth": 241,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2025-03-30": 1018,
-      "2025-02-09": 195,
-      "2025-02-03": 116
+      "2025-02-09": 195
     }
   },
   {
@@ -57,14 +55,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 540,
-    "timeDay": 414,
-    "timeWeek": 366,
-    "timeMonth": 495,
-    "timeYear": 539,
+    "timeDay": 252,
+    "timeWeek": 379,
+    "timeMonth": 485,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2025-03-30": 1018,
-      "2025-02-09": 195,
-      "2025-02-03": 116
+      "2025-02-09": 195
     }
   },
   {
@@ -73,20 +70,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.netsblox.org.ico",
     "slug": "nets-blox-login-portal",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 50,
-    "timeDay": 21,
-    "timeWeek": 45,
-    "timeMonth": 47,
+    "timeDay": 31,
+    "timeWeek": 47,
+    "timeMonth": 48,
     "timeYear": 49,
     "dailyMinutesDown": {
       "2025-03-30": 1019,
-      "2025-02-09": 195,
-      "2025-02-03": 116
+      "2025-02-09": 195
     }
   },
   {
@@ -95,15 +91,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/editor.netsblox.org.ico",
     "slug": "nets-blox-documentation",
     "status": "up",
-    "uptime": "94.47%",
+    "uptime": "94.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.79%",
     "time": 110,
-    "timeDay": 11,
-    "timeWeek": 110,
-    "timeMonth": 121,
+    "timeDay": 72,
+    "timeWeek": 118,
+    "timeMonth": 123,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2025-11-03": 1165,
@@ -152,8 +148,7 @@
       "2025-03-04": 16,
       "2025-02-11": 1338,
       "2025-02-10": 1440,
-      "2025-02-09": 1161,
-      "2025-02-03": 126
+      "2025-02-09": 1161
     }
   },
   {
@@ -168,9 +163,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 246,
-    "timeDay": 200,
-    "timeWeek": 181,
-    "timeMonth": 244,
+    "timeDay": 162,
+    "timeWeek": 174,
+    "timeMonth": 247,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2025-08-16": 35
