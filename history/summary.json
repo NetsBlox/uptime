@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 391,
-    "timeDay": 136,
-    "timeWeek": 223,
-    "timeMonth": 253,
+    "timeDay": 364,
+    "timeWeek": 237,
+    "timeMonth": 256,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2025-10-24": 805,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 268,
-    "timeDay": 266,
-    "timeWeek": 209,
-    "timeMonth": 242,
+    "timeDay": 218,
+    "timeWeek": 207,
+    "timeMonth": 240,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2025-03-30": 1018
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 532,
-    "timeDay": 315,
-    "timeWeek": 342,
-    "timeMonth": 467,
+    "timeDay": 451,
+    "timeWeek": 367,
+    "timeMonth": 450,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2025-03-30": 1018
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 50,
-    "timeDay": 41,
-    "timeWeek": 42,
-    "timeMonth": 52,
+    "timeDay": 71,
+    "timeWeek": 50,
+    "timeMonth": 51,
     "timeYear": 50,
     "dailyMinutesDown": {
       "2025-03-30": 1019
@@ -87,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/editor.netsblox.org.ico",
     "slug": "nets-blox-documentation",
     "status": "up",
-    "uptime": "94.66%",
+    "uptime": "94.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.56%",
     "time": 112,
-    "timeDay": 80,
-    "timeWeek": 156,
-    "timeMonth": 150,
-    "timeYear": 112,
+    "timeDay": 214,
+    "timeWeek": 185,
+    "timeMonth": 148,
+    "timeYear": 113,
     "dailyMinutesDown": {
       "2025-11-03": 1165,
       "2025-11-02": 1440,
@@ -140,8 +140,7 @@
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 660,
-      "2025-03-30": 1028,
-      "2025-03-04": 16
+      "2025-03-30": 1028
     }
   },
   {
@@ -156,9 +155,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 243,
-    "timeDay": 138,
-    "timeWeek": 202,
-    "timeMonth": 211,
+    "timeDay": 201,
+    "timeWeek": 204,
+    "timeMonth": 209,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-08-16": 35
