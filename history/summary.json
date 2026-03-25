@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 380,
-    "timeDay": 205,
-    "timeWeek": 164,
-    "timeMonth": 215,
+    "timeDay": 155,
+    "timeWeek": 154,
+    "timeMonth": 211,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2025-10-24": 805,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 266,
-    "timeDay": 201,
-    "timeWeek": 188,
-    "timeMonth": 192,
+    "timeDay": 183,
+    "timeWeek": 176,
+    "timeMonth": 190,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2025-03-30": 1018
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 529,
-    "timeDay": 309,
-    "timeWeek": 386,
-    "timeMonth": 388,
-    "timeYear": 518,
+    "timeDay": 376,
+    "timeWeek": 401,
+    "timeMonth": 391,
+    "timeYear": 519,
     "dailyMinutesDown": {
       "2025-03-30": 1018
     }
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 50,
-    "timeDay": 19,
-    "timeWeek": 36,
-    "timeMonth": 44,
-    "timeYear": 49,
+    "timeDay": 51,
+    "timeWeek": 38,
+    "timeMonth": 45,
+    "timeYear": 50,
     "dailyMinutesDown": {
       "2025-03-30": 1019
     }
@@ -87,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/editor.netsblox.org.ico",
     "slug": "nets-blox-documentation",
     "status": "up",
-    "uptime": "94.79%",
+    "uptime": "94.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.56%",
     "time": 112,
-    "timeDay": 14,
-    "timeWeek": 74,
-    "timeMonth": 122,
-    "timeYear": 113,
+    "timeDay": 136,
+    "timeWeek": 83,
+    "timeMonth": 126,
+    "timeYear": 114,
     "dailyMinutesDown": {
       "2025-11-03": 1165,
       "2025-11-02": 1440,
@@ -155,9 +155,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 240,
-    "timeDay": 220,
-    "timeWeek": 159,
-    "timeMonth": 198,
+    "timeDay": 149,
+    "timeWeek": 166,
+    "timeMonth": 197,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2025-08-16": 35
